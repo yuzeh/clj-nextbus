@@ -4,6 +4,12 @@ A simple Clojure wrapper around the NextBus API.
 
 ## Usage
 
+To use in Leiningen, add this to the dependencies vector in your `project.clj`:
+
+```clojure
+[clj-nextbus "0.1.0"]
+```
+
 Dependencies:
 
 ```clojure
